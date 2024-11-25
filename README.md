@@ -1,12 +1,7 @@
-Here’s a detailed **`README.md`** and **`requirements.txt`** for each project.
+### Financial Data Visualization and Analysis using GNN
 
----
 
-### **1. Financial Data Visualization and Analysis using GNN**
-
-#### **README.md**
-```markdown
-# Financial Data Visualization and Analysis using Graph Neural Networks (GNN)
+Financial Data Visualization and Analysis using Graph Neural Networks (GNN)
 
 This project uses Graph Neural Networks (GNNs) to analyze and visualize financial data. Stock data is modeled as a graph, where nodes represent individual stocks, and edges represent relationships (e.g., correlations). The model predicts stock movement trends and visualizes data interactively for financial analysis.
 
@@ -74,24 +69,8 @@ This project uses Graph Neural Networks (GNNs) to analyze and visualize financia
    python visualize.py --output visualizations/
    ```
 
----
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
-```
-
-#### **requirements.txt**
-```plaintext
-torch>=1.10.0
-torch-geometric>=2.0.0
-yfinance
-pandas
-numpy
-matplotlib
-networkx
 ```
