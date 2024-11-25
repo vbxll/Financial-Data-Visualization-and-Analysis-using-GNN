@@ -73,4 +73,3 @@ This project uses Graph Neural Networks (GNNs) to analyze and visualize financia
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
-```
