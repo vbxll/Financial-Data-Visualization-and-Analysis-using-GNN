@@ -30,7 +30,7 @@ This project uses Graph Neural Networks (GNNs) to analyze and visualize financia
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/financial-gnn.git
+   https://github.com/vbxll/Financial-Data-Visualization-and-Analysis-using-GNN
    cd financial-gnn
    ```
 
